@@ -3,7 +3,7 @@
     "user": "USUARIO",
     "host": "127.0.0.1",
     "database": "BANCO",
-    "password": "SENHA",
+    "password": "SENHABANCO",
     "port": 5432
   }
 }
