@@ -1,9 +1,9 @@
 {
   "database": {
-    "user": "postgres",
-    "host": "10.0.18.250",
-    "database": "contab0_frutal",
-    "password": "postgres",
-    "port": 5433
+    "user": "USUARIO",
+    "host": "127.0.0.1",
+    "database": "BANCO",
+    "password": "SENHA",
+    "port": 5432
   }
 }
